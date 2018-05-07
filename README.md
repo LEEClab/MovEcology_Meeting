@@ -1,3 +1,5 @@
+![](https://github.com/LEEClab/MovEcology_Meeting/blob/master/Logos/Mammals.jpg)
+
 # Movement Ecology Group Meeting (under construction)
 
 Hi, all! This is a repository used to share scripts, references, and info on Movement Ecology Group meetings. It is also intended to be one of the communication channels between participants. The group was born in 2014 at the Spatial Ecology and Conservation Lab (LEEC), at State University of São Paulo (UNESP), Rio Claro, Brazil, and have grown to include people from many institutions. **Podemos colocar aqui uma lista das instituições das pessoas que participaram ou tem participado dos encontros**. The aim of the group is to provide a virtual and physical space for discussing, meeting, and sharing information, experience, and other stuff on Movement Ecology. We held regular meetings, with online participation also, on discussing papers, projects, and data analysis on different topics of movement ecology. Meetings are generally in Portuguese, but this may be adapted depending on who is taking part. Every one is invited to take part on that.
