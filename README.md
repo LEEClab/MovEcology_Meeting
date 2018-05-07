@@ -1,4 +1,6 @@
-![](https://github.com/LEEClab/MovEcology_Meeting/blob/master/Logos/Mammals.jpg)
+<p align="center">
+  <img src=https://github.com/LEEClab/MovEcology_Meeting/blob/master/Logos/Mammals.jpg width="600" height="400" />
+</p>
 
 # Movement Ecology Group Meeting (under construction)
 
